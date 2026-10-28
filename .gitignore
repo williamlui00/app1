@@ -1,2 +1,5 @@
 .idea/*
 target
+
+dev-role-ecr-app1-repo-inline-policy.json
+dev-role-ecr-app1-repo-trust-policy.json
