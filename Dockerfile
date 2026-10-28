@@ -15,7 +15,7 @@ RUN mvn clean package -DskipTests
 # Final stage
 #
 
-FROM openjdk:8-jre-alpine
+FROM amazoncorretto:8-alpine
 
 EXPOSE 8080
 
